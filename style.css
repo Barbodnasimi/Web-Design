@@ -95,6 +95,10 @@
   
   /* FEATURES */
   .features-icon {
+    stroke: #087f5b;
+    width: 32px;
+    height: 32px;
+    margin-bottom: 16px;
   }
   
   .features-title {
@@ -109,6 +113,9 @@
   
   /* TESTIMONIAL */
   .testimonial-section {
+    background-color: #087f5b;
+    color: #fff;
+    padding: 16px 18px;
   }
   
   .testimonial-box {
@@ -157,6 +164,10 @@
   }
   
   .chair-icon {
+    stroke: #087f5b;
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
   }
   
   .chair-price {
